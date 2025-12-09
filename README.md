@@ -40,7 +40,7 @@ Code Highlights
 - Evaluation metrics (MSE, R-squared)
 
 
-Multiple Linear Regression
+- Multiple Linear Regression -
 
 Overview
 This repository contains the implementation of Multiple Linear Regression (MLR) algorithm using Python.
