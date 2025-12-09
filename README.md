@@ -38,3 +38,33 @@ Code Highlights
 - SLR model implementation
 - Training and prediction
 - Evaluation metrics (MSE, R-squared)
+
+
+Multiple Linear Regression
+
+Overview
+This repository contains the implementation of Multiple Linear Regression (MLR) algorithm using Python.
+
+Description
+Multiple Linear Regression is a linear regression model that predicts a continuous output variable based on multiple input features. This project includes:
+- Data preprocessing
+- Model implementation
+- Training and testing
+- Evaluation metrics
+
+Requirements
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+Usage
+1. Clone the repository
+2. Install required libraries
+3. Run the script: python mlr.py
+
+Code Structure
+- data/: dataset files
+- src/: source code
+- results/: output and plots
